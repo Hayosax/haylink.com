@@ -1,0 +1,16 @@
+<!doctype html>
+
+<html>
+
+<head>  </head>
+
+<body>
+
+<h1> washington DC </h1>
+
+<p> <img src="image.jpg" width="200" width="200"> </p>
+
+</body>
+
+
+</html>
